@@ -1,0 +1,39 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor-platform
+grigio:babel
+audit-argument-checks
+less
+# matteodem:easy-security
+
+meteortoys:allthings
+
+service-configuration
+
+accounts-password
+accounts-facebook
+accounts-google
+accounts-twitter
+
+xolvio:cucumber
+
+kadira:flow-router
+zimme:active-route
+kadira:blaze-layout
+useraccounts:flow-routing
+arillo:flow-router-helpers
+
+materialize:materialize
+sacha:spin
+useraccounts:materialize
+aldeed:autoform
+gildaspk:autoform-materialize
+benan789:autoform-materialize-tagsinput
+
+simple:reactive-method
+copleykj:livestamp
+
